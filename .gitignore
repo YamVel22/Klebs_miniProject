@@ -1,0 +1,7 @@
+*.fastq.gz
+*.bam
+*.sam
+*.fq.gz
+*.html
+*.zip
+logs/
