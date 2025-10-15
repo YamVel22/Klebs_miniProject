@@ -12,3 +12,4 @@ logs/
 *.html
 *.zip
 logs/
+00_rawdata/
