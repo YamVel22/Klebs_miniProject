@@ -1,0 +1,9 @@
+- "left reads":
+  - "/home/yamkelani/Klebs_miniProject/03_assembly/corrected/SRR35784662_1_val_1.fq.00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/yamkelani/Klebs_miniProject/03_assembly/corrected/SRR35784662_2_val_2.fq.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/home/yamkelani/Klebs_miniProject/03_assembly/corrected/SRR35784662__unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"
