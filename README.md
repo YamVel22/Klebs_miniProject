@@ -34,35 +34,6 @@ Accession: GCF_000009885.1
 
 Source: NCBI RefSeq
 
-🗂️ Project Structure
-Klebs_miniProject/
-│
-├── 01_rawdata/                # Raw reads (.fastq)
-│   ├── SRR35784662_1.fastq
-│   └── SRR35784662_2.fastq
-│
-├── 02_trimmed/                # Trimmed reads
-│   ├── SRR35784662_1_val_1.fq
-│   └── SRR35784662_2_val_2.fq
-│
-├── 03_assembly/               # Genome assembly (SPAdes)
-│   └── contigs.fasta
-│
-├── 04_QC/                     # QC reports (FastQC + QUAST)
-│   ├── fastqc/
-│   └── quast/
-│
-├── 05_analysis/               # Alignments and variant calling
-│   ├── SRR35784662.sam
-│   ├── SRR35784662_sorted.bam
-│   ├── SRR35784662_sorted.bam.bai
-│   ├── SRR35784662.vcf
-│   └── SRR35784662_filtered.vcf
-│
-├── reference/                 # Reference genome
-│   └── Klebsiella_reference.fasta
-│
-└── README.md
 
 ⚙️ Tools & Dependencies
 Tool	Purpose	Installation
@@ -164,3 +135,4 @@ Yamkelani Velaphi
 💻 Aspiring Bioinformatician | AWS Certified | Cloud & Genomics Enthusiast
 📍 South Africa
 🔗 GitHub: @YamVel22
+
